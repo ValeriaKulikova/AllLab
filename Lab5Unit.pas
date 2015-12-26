@@ -1,0 +1,71 @@
+unit Lab5Unit;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ExtCtrls, StdCtrls, Buttons;
+
+type
+  HookProc = procedure (State: Boolean); stdcall;
+  TLab5Form = class(TForm)
+    Panel1: TPanel;
+    StaticText1: TStaticText;
+    Panel2: TPanel;
+    BitBtn1: TBitBtn;
+    Edit1: TEdit;
+    Label1: TLabel;
+    StartHook: TButton;
+    StopHook: TButton;
+    procedure BitBtn1Click(Sender: TObject);
+    procedure StartHookClick(Sender: TObject);
+    procedure StopHookClick(Sender: TObject);
+    procedure FormShow(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+  private
+    DllHandle: HWND;
+    SetHook: HookProc;
+  public
+    { Public declarations }
+  end;
+
+var
+  Lab5Form: TLab5Form;
+
+implementation
+
+{$R *.dfm}
+
+procedure TLab5Form.FormShow(Sender: TObject);
+begin
+DllHandle:=LoadLibrary('Project2.dll');
+if DllHandle=0 then
+  ShowMessage(IntToStr(GetLastError))
+else
+  @SetHook:=GetProcAddress(DllHandle, 'SetHook');
+end;
+
+procedure TLab5Form.BitBtn1Click(Sender: TObject);
+begin
+  close();
+end;
+
+procedure TLab5Form.StartHookClick(Sender: TObject);
+begin
+  Sethook(true);
+end;
+
+procedure TLab5Form.StopHookClick(Sender: TObject);
+begin
+  Sethook(true);
+end;
+
+procedure TLab5Form.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+if DllHandle<>0 then
+  FreeLibrary(DllHandle);
+end;
+
+end.
+
+
