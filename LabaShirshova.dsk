@@ -1,181 +1,26 @@
 [Closed Files]
-File_0=SourceModule,'D:\ПРОГРАММИРОВАНИЕ\1\MainModule.pas',0,1,37,43,81,1,0
-File_1=SourceModule,'D:\ПРОГРАММИРОВАНИЕ\3\MainModule.pas',0,1,32,9,34,0,1
-File_2=SourceModule,'C:\Program Files (x86)\Common Files\Borland Shared\Images\Buttons\FormAboutProgram.pas',0,1,1,1,1,0,0
-File_3=SourceModule,'D:\УЧЁБА\Операционные системы\Prog\Prog\Папкааа\Unit1.pas',0,1,111,27,129,1,0
-File_4=SourceModule,'D:\УЧЁБА\Операционные системы\Prog\Prog\Папкааа\Unit1.dfm',0,1,113,1,1,0,0
+File_0=SourceModule,'D:\УЧЁБА\Операционные системы\Моя прога (новая)\MainUnit.pas',0,1,51,13,64,1,0
+File_1=SourceModule,'D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab4Unit.pas',0,1,1,33,73,1,1
+File_2=SourceModule,'D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab5Unit.pas',0,1,38,25,41,1,0
+File_3=SourceModule,'D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab6Unit.pas',0,1,8,21,44,1,0
+File_4=SourceModule,'D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab7Unit.pas',0,1,1,1,1,3,0
+File_5=SourceModule,'D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab3Unit.pas',0,1,1,5,65,1,1
+File_6=SourceModule,'D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab3Unit2.pas',0,1,2,43,12,0,0
+File_7=SourceModule,'D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab1Unit.pas',0,1,128,37,158,3,0
+File_8=SourceModule,'D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab2Unit.pas',0,1,48,5,74,1,1
+File_9=SourceModule,'D:\ПРОГРАММИРОВАНИЕ\1\MainModule.pas',0,1,37,43,81,1,0
 
 [Modules]
-Module0=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab1Unit.pas
-Module1=D:\УЧЁБА\Операционные системы\Моя прога (новая)\MainUnit.pas
-Module2=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab5Unit.pas
-Module3=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab2Unit.pas
-Module4=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab3Unit.pas
-Module5=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab7Unit.pas
-Module6=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab6Unit.pas
-Module7=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab4Unit.pas
-Module8=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab3Unit2.pas
-Module9=D:\УЧЁБА\Операционные системы\Моя прога (новая)\LabaShirshova.dpr
-Count=10
-EditWindowCount=1
-
-[D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab1Unit.pas]
-ModuleType=SourceModule
-FormState=3
-FormOnTop=0
-
-[D:\УЧЁБА\Операционные системы\Моя прога (новая)\MainUnit.pas]
-ModuleType=SourceModule
-FormState=1
-FormOnTop=0
-
-[D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab5Unit.pas]
-ModuleType=SourceModule
-FormState=1
-FormOnTop=0
-
-[D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab2Unit.pas]
-ModuleType=SourceModule
-FormState=3
-FormOnTop=0
-
-[D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab3Unit.pas]
-ModuleType=SourceModule
-FormState=3
-FormOnTop=0
-
-[D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab7Unit.pas]
-ModuleType=SourceModule
-FormState=3
-FormOnTop=0
-
-[D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab6Unit.pas]
-ModuleType=SourceModule
-FormState=3
-FormOnTop=0
-
-[D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab4Unit.pas]
-ModuleType=SourceModule
-FormState=3
-FormOnTop=0
-
-[D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab3Unit2.pas]
-ModuleType=SourceModule
-FormState=0
-FormOnTop=0
+Count=0
+EditWindowCount=0
 
 [D:\УЧЁБА\Операционные системы\Моя прога (новая)\LabaShirshova.dpr]
-ModuleType=SourceModule
 FormState=0
 FormOnTop=0
 
 [C:\Program Files (x86)\Borland\Delphi7\Projects\ProjectGroup1.bpg]
 FormState=0
 FormOnTop=0
-
-[EditWindow0]
-ViewCount=10
-CurrentView=8
-View0=0
-View1=1
-View2=2
-View3=3
-View4=4
-View5=5
-View6=6
-View7=7
-View8=8
-View9=9
-CodeExplorer=CodeExplorer@EditWindow0
-MessageView=MessageView@EditWindow0
-Create=1
-Visible=1
-State=0
-Left=251
-Top=137
-Width=868
-Height=646
-MaxLeft=-1
-MaxTop=-1
-ClientWidth=852
-ClientHeight=608
-LeftPanelSize=140
-LeftPanelClients=CodeExplorer@EditWindow0
-LeftPanelData=000004000000000000000000000000000000000000000000000100000000000000000C000000436F64654578706C6F726572FFFFFFFF
-RightPanelSize=0
-BottomPanelSize=0
-BottomPanelClients=MessageView@EditWindow0
-BottomPanelData=00000400010000000B0000004D6573736167655669657754030000000000000255000000000000000100000000000000000000000001000000005403000000000000010000000054030000000000000100000000540300000000000001000000005403000000000000010000000054030000000000000100000000540300000000000001000000005403000000000000FFFFFFFF
-
-[View0]
-Module=D:\УЧЁБА\Операционные системы\Моя прога (новая)\LabaShirshova.dpr
-CursorX=1
-CursorY=1
-TopLine=1
-LeftCol=1
-
-[View1]
-Module=D:\УЧЁБА\Операционные системы\Моя прога (новая)\MainUnit.pas
-CursorX=13
-CursorY=64
-TopLine=51
-LeftCol=1
-
-[View2]
-Module=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab4Unit.pas
-CursorX=7
-CursorY=62
-TopLine=51
-LeftCol=1
-
-[View3]
-Module=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab5Unit.pas
-CursorX=25
-CursorY=41
-TopLine=41
-LeftCol=1
-
-[View4]
-Module=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab6Unit.pas
-CursorX=1
-CursorY=1
-TopLine=1
-LeftCol=1
-
-[View5]
-Module=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab7Unit.pas
-CursorX=1
-CursorY=1
-TopLine=1
-LeftCol=1
-
-[View6]
-Module=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab3Unit.pas
-CursorX=1
-CursorY=41
-TopLine=40
-LeftCol=1
-
-[View7]
-Module=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab3Unit2.pas
-CursorX=31
-CursorY=30
-TopLine=2
-LeftCol=1
-
-[View8]
-Module=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab1Unit.pas
-CursorX=37
-CursorY=158
-TopLine=128
-LeftCol=1
-
-[View9]
-Module=D:\УЧЁБА\Операционные системы\Моя прога (новая)\Lab2Unit.pas
-CursorX=1
-CursorY=1
-TopLine=1
-LeftCol=1
 
 [Watches]
 Count=0
@@ -278,7 +123,7 @@ LRDockWidth=190
 Dockable=1
 SplitPos=84
 ArrangeBy=Name
-SelectedItem=Caption
+SelectedItem=
 ExpandedItems=Constraints,Directory
 HiddenCategories=
 
@@ -321,38 +166,6 @@ Column4Width=70
 SortOrder=4
 ShowHints=1
 ShowChecked=1
-
-[CodeExplorer@EditWindow0]
-Create=1
-Visible=1
-State=0
-Left=0
-Top=12
-Width=140
-Height=596
-MaxLeft=-1
-MaxTop=-1
-ClientWidth=140
-ClientHeight=596
-TBDockHeight=305
-LRDockWidth=140
-Dockable=1
-
-[MessageView@EditWindow0]
-Create=1
-Visible=0
-State=0
-Left=12
-Top=0
-Width=840
-Height=85
-MaxLeft=-1
-MaxTop=-1
-ClientWidth=840
-ClientHeight=85
-TBDockHeight=85
-LRDockWidth=443
-Dockable=1
 
 [DockHosts]
 DockHostCount=0
